@@ -1,0 +1,12 @@
+[{
+  "_id": {
+    "$oid": "6540f29c3b80f0f97a1b45e8"
+  },
+  "id": 1,
+  "last_login": null,
+  "name": "krupakar",
+  "email": "krupakar123k@gmail.com",
+  "phone": "9876543210",
+  "username": "krupa",
+  "password": "pbkdf2_sha256$390000$sw0xFz0SQNmxryEjGst3DD$6zrl/NWw+g3lhmfvHHKxsKQNBfUPMBVkgM3m4KhXIuQ="
+}]

@@ -1,0 +1,20 @@
+[{
+  "_id": {
+    "$oid": "6540f2f13b80f0f97a1b45eb"
+  },
+  "booking_id": 1,
+  "user_id": 1,
+  "movie_id": 3,
+  "theater_id": 6,
+  "total_cost": 500
+},
+{
+  "_id": {
+    "$oid": "6554c3345b938ff7382f608d"
+  },
+  "booking_id": 2,
+  "user_id": 1,
+  "movie_id": 3,
+  "theater_id": 5,
+  "total_cost": 450
+}]

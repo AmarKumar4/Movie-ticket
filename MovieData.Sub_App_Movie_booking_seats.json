@@ -1,0 +1,32 @@
+[{
+  "_id": {
+    "$oid": "6540f2f13b80f0f97a1b45ec"
+  },
+  "id": 1,
+  "booking_id": 1,
+  "seat_id": 1
+},
+{
+  "_id": {
+    "$oid": "6540f2f13b80f0f97a1b45ed"
+  },
+  "id": 2,
+  "booking_id": 1,
+  "seat_id": 2
+},
+{
+  "_id": {
+    "$oid": "6554c3345b938ff7382f608e"
+  },
+  "id": 3,
+  "booking_id": 2,
+  "seat_id": 3
+},
+{
+  "_id": {
+    "$oid": "6554c3345b938ff7382f608f"
+  },
+  "id": 4,
+  "booking_id": 2,
+  "seat_id": 4
+}]

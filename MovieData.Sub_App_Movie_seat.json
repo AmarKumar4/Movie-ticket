@@ -1,0 +1,44 @@
+[{
+  "_id": {
+    "$oid": "6540f2e93b80f0f97a1b45e9"
+  },
+  "id": 1,
+  "number": "B3",
+  "movie_id": 3,
+  "theater_id": 6,
+  "available": false,
+  "price": 200
+},
+{
+  "_id": {
+    "$oid": "6540f2ed3b80f0f97a1b45ea"
+  },
+  "id": 2,
+  "number": "D3",
+  "movie_id": 3,
+  "theater_id": 6,
+  "available": false,
+  "price": 300
+},
+{
+  "_id": {
+    "$oid": "6554c32c5b938ff7382f608b"
+  },
+  "id": 3,
+  "number": "A4",
+  "movie_id": 3,
+  "theater_id": 5,
+  "available": false,
+  "price": 150
+},
+{
+  "_id": {
+    "$oid": "6554c32e5b938ff7382f608c"
+  },
+  "id": 4,
+  "number": "D5",
+  "movie_id": 3,
+  "theater_id": 5,
+  "available": false,
+  "price": 300
+}]
